@@ -1,3 +1,7 @@
 # Datascience Portfolio by Daniel Mansfeldt
 
-# Project No. 1
+<p style="text-align: center;">about</p>
+
+Datascience, machine learling, mechanial engineering.
+
+Profile:
