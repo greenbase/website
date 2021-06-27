@@ -16,10 +16,6 @@ body, html {
 	background-size: cover;
 }
 .intro-content {
-	display: table-cell;
 	vertical-align: middle;
 	text-align: center;
-	-webkit-transform: translateY(-2.1rem);
-	-ms-transform: translateY(-2.1rem);
-	transform: translateY(-2.1rem);
 }
