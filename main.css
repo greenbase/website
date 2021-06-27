@@ -1,10 +1,16 @@
+body, html {
+  height: 100%;
+}
 
 #intro {
         background: cyan;
         text-align: center;
-	position: absolute;
-	top:0;
-	left:0;
-        width: 100%;
-	height: 100%;
+
+	/* Full height */
+	height: 100%; 
+
+	/* Center and scale the image nicely */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
