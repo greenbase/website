@@ -3,7 +3,7 @@ body, html {
 	margin: 0;
 }
 
-#intro {
+.intro {
         background-color:#3e4444;
         text-align: center;
 
